@@ -1,0 +1,53 @@
+  Comandos usados en el examen
+
+  1 git init
+  2 ls -a
+  3  git remote add origin https://github.com/clarema29/Checkpoint-ClaudiaRedondo. git
+  4  touch main.js index.html
+  5 git add .
+  6 git commit -m "01 ClaudiaRedondo"
+  7 git push origin main
+  8 git push -u origin main
+  9  git status
+  10  git push
+  11  git remote add origin https://github.com/clarema29/Checkpoint-ClaudiaRedondo.git
+  12  git remote -v
+  13 git push -u origin main
+  14 git branch <feature>
+  15  git checkout feature
+  16  git status
+  17  clear
+  18  git branch feature
+  19  git checkout feature
+  20  mkdir Hardware Software SeguridadInformatica
+  21  cd Hardware/
+  22  touch resumen.txt
+  23 cd ..
+  24 cd Software/
+  25  touch resumen.txt
+  26  cd ..
+  27  cd SeguridadInformatica/
+  28  touch resumen.txt
+  29  git add .
+  30  git commit -m "02 ClaudiaRedondo"
+  31  git status
+  32  git add .
+  33  git status
+  34  git commit -m "03 ClaudiaRedondo"
+  35  git status
+  36 cd ..
+  37  git add .
+  38  git commit -m "03 ClaudiaRedondo"
+  39  git status
+  40  cd ..
+  41  cd Checkpoint-ClaudiaRedondo/
+  42  git push -u origin feature
+  43  git branch -a
+  44  git checkout main
+  45  mv main.js resumenHardware.txt index.html resumenSoftware.txt
+  46  mv main.js resumenHardware.txt
+  47  mv index.html resumenSoftware.txt
+  48  git add .
+  49  touch comandos.txt
+  50  git history
+  51  history
